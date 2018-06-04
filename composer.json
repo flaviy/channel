@@ -1,0 +1,7 @@
+{
+  "name": "flaviy/remake-channel",
+  "type": "cakephp-plugin",
+  "extra": {
+    "installer-name": "Channel"
+  }
+}
