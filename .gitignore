@@ -1,2 +1,4 @@
 app/Plugin/Channel
+app/Plugin/Channel/*
+
 
