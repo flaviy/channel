@@ -1,12 +1,4 @@
 {
   "name": "flaviy/channel",
-  "type": "cakephp-plugin",
-  "extra": {
-    "installer-name": "Channel",
-     "installer-paths": {
-      "app/Plugin/{$installer-name}/": ["type:cakephp-plugin"]
-
-    }
-  }
-
+  "type": "cakephp-plugin"
 }
